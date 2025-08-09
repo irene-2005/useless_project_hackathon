@@ -1,0 +1,14 @@
+*{box-sizing:border-box}
+body{font-family:Inter,Segoe UI,system-ui,Arial;background:#f6f7fb;color:#111;display:flex;align-items:center;justify-content:center;height:100vh;margin:0}
+.app{width:760px;max-width:96%;background:#fff;padding:18px;border-radius:12px;box-shadow:0 8px 30px rgba(10,10,20,0.06)}
+h1{margin:0 0 6px;font-size:22px}
+.sub{margin:0 0 14px;color:#666}
+.chat{height:360px;overflow:auto;border-radius:8px;padding:12px;border:1px solid #eee;background:#fff;margin-bottom:10px;display:flex;flex-direction:column;gap:8px}
+.msg{padding:10px;border-radius:8px;max-width:78%}
+.user{align-self:flex-end;background:#e6f7ff}
+.bot{align-self:flex-start;background:#fff4e6}
+.controls{display:flex;gap:8px;align-items:center}
+#prompt{flex:1;padding:10px;border-radius:8px;border:1px solid #ddd}
+button{padding:10px 14px;border-radius:8px;border:none;background:#111;color:#fff;cursor:pointer}
+.mute{margin-left:6px;color:#444;font-size:14px}
+.hint{display:block;margin-top:8px;color:#888}

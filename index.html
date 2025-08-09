@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Savage Chakka — demo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>Savage Chakka</h1>
+    <p class="sub">Ask me anything — don't expect useful answers. 😂</p>
+
+    <div id="chat" class="chat" aria-live="polite"></div>
+
+    <div class="controls">
+      <input id="prompt" placeholder="Type something..." autocomplete="off" />
+      <button id="send">Send</button>
+      <label class="mute"><input type="checkbox" id="mute"> Mute audio</label>
+    </div>
+
+    <audio id="player" preload="auto"></audio>
+    <small class="hint">Audio plays on your click (browser policy).</small>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
