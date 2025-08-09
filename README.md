@@ -5,12 +5,12 @@
 
 
 ## Basic Details
-### Team Name: [CodeRookies]
+### Team Name: CodeRookies
 
 
 ### Team Members
-- Team Lead: [Irene Sara Philipose] - [School of Engineering,CUSAT]
-- Member 2: [Amal Vinayan] - [School of Engineering,CUSAT]
+- Team Lead: Irene Sara Philipose - School of Engineering,CUSAT
+- Member 2: Amal Vinayan - School of Engineering,CUSAT
 
 
 ### Project Description
