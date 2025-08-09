@@ -48,14 +48,8 @@ If you ask us whether it is useful...well Nah Just another way to procastinate..
 ### Technologies/Components Used
 For Software:
 - [HTML,CSS,Javascript]
-- [Frameworks used-null]
-- [Libraries used]
 - [VScode,Gitbash]
 
-For Hardware:
-- [List main components-null]
-- [List specifications-null]
-- [List tools required-null]
 
 ### Implementation
 For Software:
@@ -78,14 +72,9 @@ For Software:
 ![SS3](https://github.com/user-attachments/assets/0a7f958e-0d2f-4161-80c3-c361620b5afc)
 *GIVING BACK SAVAGE REPLY TO PROMPT ABOUT LOVE*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
 ## Team Contributions
-- [Amal Vinayan]: [Website hosting]
-- [Irene Sara Philipose]: [Frontend]
+- Amal Vinayan: Website hosting
+- Irene Sara Philipose: Frontend
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
