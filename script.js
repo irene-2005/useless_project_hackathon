@@ -27,7 +27,7 @@ const KEYMAP = {
       "Well, hello there...or whoever you are.",
       "hello.I'm not impressed yet"
     ],
-    audio: "audio/hello.mp3"
+    audio: "audio/help.mp3"
   },
   "breakup": {
     messages: [
@@ -43,7 +43,7 @@ const KEYMAP = {
     ],
     audio: "audio/confession.mp3"
   },
-  "I hate you": {
+  "hate": {
     messages: [
       "Hate? That's just love in a bad mood.",
       "I hate you too, but I still have to listen."
