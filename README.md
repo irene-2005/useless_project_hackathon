@@ -11,7 +11,7 @@
 ### Team Members
 - Team Lead: Irene Sara Philipose - School of Engineering,CUSAT
 - Member 2: Amal Vinayan - School of Engineering,CUSAT
-
+- **random  ctrl+C: Sivadarsh- soe first year (clicked a random profile on tinkerhub and clicked random project of the user and added more codes :)**
 
 ### Project Description
 🐍 Dhashamoolam — The Savage Reply Bot
